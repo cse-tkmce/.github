@@ -1,5 +1,5 @@
 # Department of Computer Science, TKMCE
 
-Welcome to the official GitHub organization of the Computer Science department of TKM College of Engineering, Kollam!
+Welcome to the official GitHub :octocat: organization of the Department of Computer Science and Engineering at TKM College of Engineering, Kollam!
 
-This organization showcases the projects done in collaboration, by the proud students of the department of CSE & CSE-AI.
+This organization showcases projects, collaborative work, and open-source contributions by the students of **CSE & CSE-AI**.
